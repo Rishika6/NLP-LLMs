@@ -1,0 +1,10 @@
+{"question": "Given a sorted array, find two numbers that add up to a target.", "expected_patterns": ["two-pointer"], "expected_similar": ["Two Sum II - Input Array Is Sorted", "3Sum"]}
+{"question": "Find the length of the longest substring without repeating characters.", "expected_patterns": ["sliding window", "hash set"], "expected_similar": ["Longest Substring Without Repeating Characters", "Minimum Window Substring"]}
+{"question": "Given a binary tree, return the level order traversal of its nodes.", "expected_patterns": ["bfs", "queue"], "expected_similar": ["Binary Tree Level Order Traversal", "Binary Tree Zigzag Level Order Traversal"]}
+{"question": "Find the next greater element for each element in an array.", "expected_patterns": ["monotonic stack"], "expected_similar": ["Next Greater Element I", "Daily Temperatures"]}
+{"question": "Find the number of connected components in an undirected graph.", "expected_patterns": ["dfs", "union-find"], "expected_similar": ["Number of Connected Components in an Undirected Graph", "Number of Islands"]}
+{"question": "Climb a staircase with 1 or 2 steps at a time — count distinct ways to reach step n.", "expected_patterns": ["dynamic programming", "fibonacci"], "expected_similar": ["Climbing Stairs", "House Robber"]}
+{"question": "Find the kth largest element in an unsorted array.", "expected_patterns": ["heap", "quickselect"], "expected_similar": ["Kth Largest Element in an Array", "Top K Frequent Elements"]}
+{"question": "Detect if a linked list has a cycle.", "expected_patterns": ["two-pointer", "fast and slow pointer"], "expected_similar": ["Linked List Cycle", "Linked List Cycle II"]}
+{"question": "Given intervals, merge all overlapping intervals.", "expected_patterns": ["sorting", "interval"], "expected_similar": ["Merge Intervals", "Insert Interval"]}
+{"question": "Find the minimum number of coins needed to make a target amount.", "expected_patterns": ["dynamic programming", "unbounded knapsack"], "expected_similar": ["Coin Change", "Coin Change II"]}

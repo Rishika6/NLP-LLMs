@@ -1,0 +1,6 @@
+.venv/
+.env
+chroma/
+data/leetcode.jsonl
+__pycache__/
+*.pyc
