@@ -1,12 +1,11 @@
 langchain
 langchain-core
 langchain-community
-langchain-anthropic
 langchain-chroma
 langchain-huggingface
 chromadb
 sentence-transformers
-anthropic
+huggingface_hub
 langsmith
 python-dotenv
 datasets
